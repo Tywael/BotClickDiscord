@@ -1,7 +1,5 @@
 # Discord Bot for Pattern-Based Interaction
 
-![Project Logo](project_logo.png)
-
 ## Description
 
 This Python project is a Discord bot designed to interact with the Discord application by locating and clicking on specific patterns within the Discord window. The bot utilizes the `pygetwindow`, `opencv-python`, and `pyautogui` libraries to achieve its functionality.
