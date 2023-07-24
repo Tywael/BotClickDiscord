@@ -17,6 +17,8 @@ This Python project is a Discord bot designed to interact with the Discord appli
 - OpenCV library (`opencv-python`)
 - `pyautogui` library (`pyautogui`)
 
+**Note**: Currently, the application supports only Windows operating system.
+
 ## Usage
 
 1. Save the image of the pattern you want to search for as `img.png` in the same directory as the script.
