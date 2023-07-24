@@ -24,7 +24,10 @@ This Python project is a Discord bot designed to interact with the Discord appli
 3. Run the Python script to activate the Discord window, maximize it, and start searching for the pattern.
 4. The bot will continuously search for the pattern in the Discord window and click on any occurrences found.
 
-**Note**: Ensure that Discord is running, and its window is visible on the screen before running the bot.
+**Terminating the Application:**
+To stop the bot and terminate the application gracefully, simply press **Ctrl+C** in the terminal or command prompt where the script is running.
+
+**Note**: Ensure that Discord is running before running the script.
 
 ## Limitations
 
