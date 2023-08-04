@@ -1,4 +1,4 @@
-# Discord Bot for Pattern-Based Interaction
+# Any app Bot for Pattern-Based Interaction
 
 ## Description
 
